@@ -64,11 +64,12 @@ Each captured frame moves through this pipeline for real-time edge detection and
 ## 📸 Results
 
 **Original Image:**  
-![original_image](https://github.com/user-attachments/assets/57195853-3a7d-4d7b-afbc-756bc49345c8)
+images/original_image1.jpg
 
 
 **Processed (Android App):**  
-![sample_image](https://github.com/user-attachments/assets/9847aa7a-682f-42f3-85bf-293792c36327)
+![website_image](https://github.com/user-attachments/assets/9b1d6699-c52f-4ed1-bcb1-274789e80294)
+
 
 
 ---
